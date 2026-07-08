@@ -1,1 +1,1 @@
-meu primeiro arquivo de arquitetura
+Meu primeiro arquivo de arquitetura.
